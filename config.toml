@@ -75,9 +75,10 @@ url = "https://www.appmeshworkshop.com/"
 weight = 23
 
 [markup]
-  defaultMarkdownHandler = "blackfriday"
-  [markup.blackFriday]
-    hrefTargetBlank = true
+defaultMarkdownHandler = "blackfriday"
+
+[markup.blackFriday]
+hrefTargetBlank = true
 
 [Languages]
 [Languages.oyo]

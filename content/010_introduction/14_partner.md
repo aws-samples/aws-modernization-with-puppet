@@ -1,5 +1,5 @@
 ---
-title: "Who is this partner?"
+title: "Who is Puppet?"
 chapter: true
 weight: 14
 ---
