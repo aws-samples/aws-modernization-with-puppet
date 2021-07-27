@@ -4,7 +4,9 @@ chapter: true
 weight: 1
 ---
 
-# AWS Modernization Workshop: Workflow automatation with Relay and Puppet Enterprise
+![Logo](/images/logo-combined.png)
+
+## Workflow automatation with Relay and Puppet Enterprise
 
 ### Welcome
 

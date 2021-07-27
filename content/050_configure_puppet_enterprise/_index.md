@@ -55,7 +55,7 @@ Configuring Puppet Enterprise (PE) to integrate with Relay for this workshop wil
 
 11. <a name="pe-step-11"></a>Provide additional data to the **profile::relay** class
   - Using the parameter drop down, add **trigger_token**
-  - Set `trigger_token` to the value of the token you obtained from Relay's **puppet-report** trigger in the [Configuring Relay section, step 8]({{< ref "/025_configure_relay#relay-step-8" >}})
+  - Set `trigger_token` to the value of the token you obtained from Relay's **puppet-report** trigger in the [Configuring Relay section, step 8]({{< ref "/040_configure_relay#relay-step-8" >}})
   - Commit 1 change to the **PE Master** node group
 ![Step 11](/images/30_Configure_Puppet_Enterprise/11_pe_commit_profile_relay.png)
 
