@@ -4,28 +4,28 @@ chapter: true
 weight: 10
 ---
 
-## Learning Objectives
+# Learning Objectives
 
-Today we will going to work through the following topics
+Today we are going to learn the following topics
 
 - How to configure and use a community provided Relay workflow
 - How to configure the Puppet Enterprise integration for Relay
 - How infrastructure as code can enable further automation
 - How combining Puppet Enterprise and Relay can facilitate policy enforcement
 
-## Workshop Structure
+# Workshop Structure
 
-The workshop covers the following topics and it is estimated that 1 to 1.5 hours will be required to complete.
+The workshop covers the following topics, and it is estimated that 1 to 1.5 hours will be required to complete.
 
-- Prerequisites (10 minutes)
+- Prerequisites (15 minutes)
   - Create a Relay account
   - Provision Puppet Enterprise from the AWS Marketplace
   - Provision AWS IAM credentials with access to EC2
   - Provision one CentOS EC2 instances to the same region where you deploy Puppet Enterprise
-- Setup (20 minutes)
+- Setup (25 minutes)
   - Configure Relay workflow
   - Configure Puppet Enterprise
-- Workshop Exercise (30 minutes)
+- Workshop Exercise (30-45 minutes)
   - Deploy EC2 instance and onboard into Puppet Enterprise
   - Manage sudo using infrastructure as code
   - Make an unauthorized change to sudo

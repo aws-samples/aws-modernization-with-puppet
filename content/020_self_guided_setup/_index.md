@@ -12,6 +12,7 @@ Welcome to the Self Guided Setup section! This workshop requires an AWS account 
 Here is a preview of what we will be setting up:
 
 1. Creating an AWS account with proper permissions
+1. Signing up for Puppet via Marketplace listing
 1. Requesting AWS credit from AWS Marketplace
 1. Creating a Cloud9 IDE Workspace
 1. Creating an IAM Role
