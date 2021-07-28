@@ -8,6 +8,8 @@ weight: 51
 
 The first step in setting up a new Puppet Enterprise deployment is importing a control repository, which contains the Puppet code which is used to define the configurtion of managed resources.
 
+**Before you get started ensure that Puppet Enterprise has completed its post deployment configuration process!** The steps for ensuring setup are complete are documented [here](https://puppet.com/docs/pe/2019.8/cloud_installing.html#aws-install) on the Puppet documentation website.
+
 1. <a name="pe-step-1"></a>Navigate to the Puppet Enterprise console, which runs over the standard HTTPS port (443)
   - Find and click on **Node groups**, found in the left side navigation panel
 ![Step 1](/images/30_Configure_Puppet_Enterprise/01_pe_node_groups.png)
