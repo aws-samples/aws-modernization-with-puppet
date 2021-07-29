@@ -4,11 +4,14 @@ chapter: true
 weight: 51
 ---
 
-### Configure Puppet Control Repsitory
+### Configure Puppet Control Repository
 
-The first step in setting up a new Puppet Enterprise deployment is importing a control repository, which contains the Puppet code which is used to define the configurtion of managed resources.
+The first step in setting up a new Puppet Enterprise deployment is importing a control repository, which contains the Puppet code which is used to define the configuration of managed resources.
 
-**Before you get started ensure that Puppet Enterprise has completed its post deployment configuration process!** The steps for ensuring setup are complete are documented [here](https://puppet.com/docs/pe/2019.8/cloud_installing.html#aws-install) on the Puppet documentation website.
+**Before you get started ensure that Puppet Enterprise has completed its post-deployment configuration process!** The steps for ensuring setup are complete are documented [here](https://puppet.com/docs/pe/2019.8/cloud_installing.html#aws-install) on the Puppet documentation website.
+
+Alternatively, you can connec to your EC2 instance by following these steps:
+![EC2 Connect](/images/ec2-connect.png)
 
 1. <a name="pe-step-1"></a>Navigate to the Puppet Enterprise console, which runs over the standard HTTPS port (443)
   - Find and click on **Node groups**, found in the left side navigation panel

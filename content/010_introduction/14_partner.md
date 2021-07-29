@@ -4,7 +4,7 @@ chapter: true
 weight: 14
 ---
 
-## Who is Pupept?
+## Who is Puppet?
 
 Puppet helps enterprises modernize and manage their infrastructure with the solutions to automate anywhere, reliably scale, and integrate compliance and security across hybrid infrastructure. More than 40,000 organizations — including more than 80 percent of the Global 5000 — have benefited from Puppet’s open source and commercial solutions to ensure business continuity, optimize costs, boost compliance and ensure security, all while accelerating the adoption of DevOps practices and delivery of self-service. Headquartered in Portland, Oregon, Puppet is a privately held company with offices in London, Belfast, Singapore, Sydney and Timișoara.
 

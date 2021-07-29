@@ -6,10 +6,10 @@ weight: 18
 
 ## Configure Additional requirements
 
-1. Deploy one additonal EC2 instance to the same region and VPC as where you deployed Puppet Enterprise from the Marketplace
-  * Deployement into the same region and VPC is assumed in the workshop instructions and for demonstration purposes, simpler
-  * The operating system used for the addtional instance during workshop development was CentOS 7, Amazon Linux 2 should also work
-  * An instance type of t3.small	is sufficient
+1. Deploy one additional EC2 instance to the same region and VPC as where you deployed Puppet Enterprise from the Marketplace
+  * Deployment into the same region and VPC is assumed in the workshop instructions and for demonstration purposes, simpler
+  * The operating system used for the additional instance during workshop development was CentOS 7, Amazon Linux 2 should also work
+  * An instance type of t3.small is sufficient.
 
 2. You are also required to sign up for Relay by Puppet to complete this workshop
   * Visit https://app.relay.sh/signup
